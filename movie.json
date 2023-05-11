@@ -1,0 +1,41 @@
+{
+    "movies": [
+        {
+            "identifier": 0,
+            "title": "Indiana Jones und der letzte Kreuzzug",
+            "duration": "2h 7min",
+            "description": "In the film, set largely in 1938, Indiana searches for his father, a Holy Grail scholar, who has been kidnapped and held hostage by the Nazis while on a journey to find the Holy Grail.",
+            "genre": "Action",
+            "actors": [
+                {
+                    "identifier": 0,
+                    "firstname": "Harrison",
+                    "lastname": "Ford",
+                    "birthdate": "13.07.1942",
+                    "holds awards": true
+                },
+                {
+                    "identifier": 1,
+                    "firstname": "Sean",
+                    "lastname": "Connery",
+                    "birthdate": "25.08.1930",
+                    "holds awards": true
+                },
+                {
+                    "identifier": 2,
+                    "firstname": "Alison",
+                    "lastname": "Doody",
+                    "birthdate": "11.11.1966",
+                    "holds awards": true
+                }
+            ],
+            "director": {
+                "identifier": 0,
+                "firstname": "Steven",
+                "lastname": "Spielberg",
+                "birthdate": "18.12.1946",
+                "yearly budget": 1000000000
+            }
+        }
+    ]
+}
